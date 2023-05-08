@@ -16,7 +16,6 @@ const addBook = document.querySelector('[data-add-book]');
 const contactInfo = document.querySelector('[data-contact-info]');
 const dateTime = document.querySelector('.date');
 
-
 display();
 
 addBtn.addEventListener('click', () => {
