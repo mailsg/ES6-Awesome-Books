@@ -1,0 +1,15 @@
+{
+  "name": "es6-awesome-books",
+  "version": "1.0.0",
+  "description": "Refactoring the Awesome Books with ES6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.3.0"
+  }
+}
