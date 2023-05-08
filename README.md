@@ -163,7 +163,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [https://github.com/mailsg/Awesome-Books/issues](../../issues/).
+Feel free to check the [https://github.com/mailsg/ES6-Awesome-Books/issues](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
