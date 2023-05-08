@@ -1,5 +1,7 @@
 import newBooks from './CustomCollection.js';
 
+const displaySection = document.querySelector('[data-display]');
+
 const display = () => {
     const { bookCollection } = newBooks;
     displaySection.innerHTML = '';
